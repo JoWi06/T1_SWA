@@ -1,4 +1,3 @@
-
 CREATE DATABASE IF NOT EXISTS db_educateapp;
 USE db_educateapp;
 
